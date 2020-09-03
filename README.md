@@ -34,3 +34,7 @@ Hey i am the seventh test ! I should excute a git pull script!
 # The eighth test git pull script
 
 Hey i am the eighth test ! I should excute a git pull script!
+
+# The ninth test git pull script
+
+Hey i am the ninth test ! I should excute a git pull script!
